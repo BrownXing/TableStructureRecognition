@@ -9,9 +9,7 @@ A collection of methods and benchmarks of Table Structure Recognition based on D
 | [Show, Read and Reason: Table Structure Recognition with Flexible Context Aggregator](https://dl.acm.org/doi/abs/10.1145/3474085.3481534) | FLAG | MM 2021 | - | - |
 | [Parsing Table Structures in the Wild](https://openaccess.thecvf.com/content/ICCV2021/papers/Long_Parsing_Table_Structures_in_the_Wild_ICCV_2021_paper.pdf) | Cycle | ICCV 2021 | - | [WTW](https://github.com/wangwen-whu/WTW-Dataset) |
 | [TGRNet: A Table Graph Reconstruction Network for Table Structure Recognition](https://github.com/xuewenyuan/TGRNet) | TGRNet | ICCV 2021 | [Pytorch](https://github.com/xuewenyuan/TGRNet) | [TableGraph-350K](https://github.com/xuewenyuan/TGRNet)|
-
 |[LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224)| LGPMA | ICDAR 2021 | [Pytorch](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/table_recognition/lgpma) | - |
-
 |[CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents](https://arxiv.org/abs/2004.12629)| CascadeTabNet| CVPR 2020 Workshop| [Pytorch](https://github.com/DevashishPrasad/CascadeTabNet) | - |
 |[Global Table Extractor (GTE): A Framework for Joint Table Identification and
 Cell Structure Recognition Using Visual Context](https://openaccess.thecvf.com/content/WACV2021/papers/Zheng_Global_Table_Extractor_GTE_A_Framework_for_Joint_Table_Identification_WACV_2021_paper.pdf)| GTE | WACV 2021 | - | - |
