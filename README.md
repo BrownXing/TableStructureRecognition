@@ -10,6 +10,7 @@ A collection of methods and benchmarks of Table Structure Recognition based on D
 | [Parsing Table Structures in the Wild](https://openaccess.thecvf.com/content/ICCV2021/papers/Long_Parsing_Table_Structures_in_the_Wild_ICCV_2021_paper.pdf) | Cycle | ICCV 2021 | - | [WTW](https://github.com/wangwen-whu/WTW-Dataset) |
 | [TGRNet: A Table Graph Reconstruction Network
 for Table Structure Recognition](https://openaccess.thecvf.com/content/ICCV2021/papers/Xue_TGRNet_A_Table_Graph_Reconstruction_Network_for_Table_Structure_Recognition_ICCV_2021_paper.pdf) | TGRNet | ICCV 2021 | [Pytorch](https://github.com/xuewenyuan/TGRNet) | [TableGraph-350K](https://github.com/xuewenyuan/TGRNet)|
+
 |[LGPMA: Complicated Table Structure Recognition with Local and Global Pyramid Mask Alignment](https://arxiv.org/abs/2105.06224)| LGPMA | ICDAR 2021 | [Pytorch](https://github.com/hikopensource/DAVAR-Lab-OCR/tree/main/demo/table_recognition/lgpma) | - |
 
 |[CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents](https://arxiv.org/abs/2004.12629)| CascadeTabNet| CVPR 2020 Workshop| [Pytorch](https://github.com/DevashishPrasad/CascadeTabNet) | - |
