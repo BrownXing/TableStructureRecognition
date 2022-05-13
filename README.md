@@ -1,4 +1,4 @@
-# Table Structure Recognition: Methods and Benchmarks
+# Table Structure Recognition with DNN: Methods and Benchmarks
 A collection of methods and benchmarks of Table Structure Recognition based on DNN
 
 |    Paper    |  Method |  Conference |  Code | Benchmark |
