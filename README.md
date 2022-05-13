@@ -2,7 +2,7 @@
 A collection of methods and benchmarks of Table Structure Recognition based on DNN
 
 |    Paper    |  Method |  Conference |  Code | Benchmark |
-|  :---------  | :------:  | :------: | :------: | :------: |
+|  :---------:  | :------:  | :------: | :------: | :------: |
 | [TableFormer: Table Structure Understanding with Transformers](https://arxiv.org/abs/2203.01017) | TableFormer | ACL 2022 | - | [SythTabNet](https://github.com/IBM/SynthTabNet) |
 | [Neural Collaborative Graph Machines for Table Structure Recognition](https://arxiv.org/abs/2111.13359) | NCGM | CVPR 2022 | - | - |
 | [Visual Understanding of Complex Table Structures from Document Images](https://openaccess.thecvf.com/content/WACV2022/papers/Raja_Visual_Understanding_of_Complex_Table_Structures_From_Document_Images_WACV_2022_paper.pdf) | |TOD-Net | WACV 2022 | - | [TUCD](https://github.com/sachinraja13/TUCD)|
